@@ -2,7 +2,7 @@
 from click.testing import CliRunner
 import pytest
 
-from kalam import console
+from proxywars import console
 
 
 @pytest.fixture
